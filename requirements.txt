@@ -1,0 +1,4 @@
+pyautogui
+selenium
+get_chrome_driver
+undetected-chromedriver
